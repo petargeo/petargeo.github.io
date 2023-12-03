@@ -4,12 +4,11 @@
 
 
 ## Education 			        		
-- AAS, Computing and Information Technology | College of Southern Nevada (_May 2010_)
+- AAS, IT | College of Southern Nevada (_May 2010_)
 
 ## Work Experience
 **QA Engineer @ Qredo (_Jan 2022 - Oct 2023_)**
 -  Delivered the New Qredo, decentralized self-custodian for crypto assets, with improved governance and web3 integration, along with features like voting and staking
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 **QA Engineer @ UpThere (_Feb 2015 - Apr 2017_)**
 - Validated the software quality of the Upthere mobile application across different mobile platforms
