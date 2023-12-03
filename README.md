@@ -18,7 +18,7 @@
 
 ## Projects
 ### The New Qredo, decentralized self-custodian for crypto assets
-[Qredo web app](https://www.qredo.com/)
+[Qredo web app](https://www.qredo.com/ target="_blank")
 
 The Qredo protocol is a Layer 2 **decentralized custodian** protocol with compliance and governance controls built-in to its consensus mechanism. Qredo Network has been created — not as a competitor for existing centralized crypto-custody platforms, but as an advancement of existing platforms, creating an opportunity for them to adopt its decentralized model.
 
