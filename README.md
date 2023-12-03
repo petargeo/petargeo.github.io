@@ -3,13 +3,16 @@
 #### Technical Skills: Scrum, Jira, SDLC, STLC, Zephyr, TestRail, Git, CI/CD, BDD, Gherkin, PyCharm, VScode, GitHub, GitLab, Swagger, REST API, Xcode, Android Studio
 
 
-## Education 			        		
-AAS, IT | College of Southern Nevada (_May 2010_)
+## Education 
 
 ___
-
+ 
+AAS, IT | College of Southern Nevada (_May 2010_)
 
 ## Work Experience
+
+___
+ 
 **QA Engineer @ Qredo (_Jan 2022 - Oct 2023_)**
 -  Delivered the New Qredo, decentralized self-custodian for crypto assets, with improved governance and web3 integration, along with features like voting and staking
 
@@ -20,6 +23,9 @@ ___
 - Performed cross-platform mobile testing
 
 ## Projects
+
+___
+ 
 ### The New Qredo, decentralized self-custodian for crypto assets
 [Qredo web app](https://www.qredo.com/){:target="_blank"} ; [Qredo mobile app (iOS)](https://apps.apple.com/il/app/qredo-network-signing-app/id1515898075){:target="_blank"} ; [Qredo mobile app (Android)](https://play.google.com/store/apps/details?id=com.qredoapp&hl=en&gl=US){:target="_blank"}
 
