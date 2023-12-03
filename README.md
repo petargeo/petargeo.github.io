@@ -7,7 +7,7 @@
 
 ___
  
-AAS, IT - College of Southern Nevada (_May 2010_)
+- AAS, IT - College of Southern Nevada (_May 2010_)
 
 ## Work Experience
 
