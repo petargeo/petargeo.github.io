@@ -4,7 +4,8 @@
 
 
 ## Education 			        		
-- AAS, IT | College of Southern Nevada (_May 2010_)
+AAS, IT | College of Southern Nevada (_May 2010_)
+___
 
 ## Work Experience
 **QA Engineer @ Qredo (_Jan 2022 - Oct 2023_)**
@@ -18,9 +19,6 @@
 
 ## Projects
 ### The New Qredo, decentralized self-custodian for crypto assets
-[Qredo web app](https://www.qredo.com/){:target="_blank"}
+[Qredo web app](https://www.qredo.com/){:target="_blank"} [Qredo mobile app (iOS)](https://apps.apple.com/il/app/qredo-network-signing-app/id1515898075){:target="_blank"} [Qredo mobile app (Android)](https://play.google.com/store/apps/details?id=com.qredoapp&hl=en&gl=US){:target="_blank"}
 
 The Qredo protocol is a Layer 2 **decentralized custodian** protocol with compliance and governance controls built-in to its consensus mechanism. Qredo Network has been created — not as a competitor for existing centralized crypto-custody platforms, but as an advancement of existing platforms, creating an opportunity for them to adopt its decentralized model.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
