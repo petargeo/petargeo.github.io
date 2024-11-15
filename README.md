@@ -1,6 +1,6 @@
 # Quality Assurance Engineer
 
-#### Technical Skills: Scrum, Jira, SDLC, STLC, Zephyr, TestRail, Git, CI/CD, BDD, Gherkin, PyCharm, VScode, GitHub, GitLab, Swagger, REST API, Xcode, Android Studio
+#### Technologies and Skills: Agile Methodologies, Scrum, JIRA, Azure DevOps, Confluence, Notion, Zephyr, Testrail, REST APIs, API Testing, Swagger, Postman, Grafana, Splunk, Kafka, JSON, SQL, Git, CI/CD, Xcode, Android Studio, DevTools, Browserstack
 
 
 ## Education 
@@ -12,14 +12,17 @@ ___
 ## Work Experience
 
 ___
- 
-**QA Engineer @ Qredo (_Jan 2022 - Oct 2023_)**
+
+**QA Engineer @ Blankfactor (_2023 - Present_)**
+-  Involved in various internal projects in the Finance domain related to Risk systems
+
+**QA Engineer @ Qredo (_2021 - 2023_)**
 -  Delivered the New Qredo, decentralized self-custodian for crypto assets, with improved governance and web3 integration, along with features like voting and staking
 
-**QA Engineer @ UpThere (_Feb 2015 - Apr 2017_)**
+**QA Engineer @ UpThere (_2015 - 2017_)**
 - Validated the software quality of the Upthere mobile application across different mobile platforms
 
-**QA Engineer @ Angdim Technology (_Jan 2014 - Jan 2015_)**
+**QA Engineer @ Angdim Technology (_2014 - 2015_)**
 - Performed cross-platform mobile testing
 
 ## Projects
